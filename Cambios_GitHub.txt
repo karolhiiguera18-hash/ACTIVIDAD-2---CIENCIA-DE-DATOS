@@ -1,0 +1,7 @@
+CAMBIOS REALIZADOS EN GITHUB
+Primer cambio:
+Se creó el archivo Instalar Git.txt y se realizó el primer commit.
+Segundo cambio:
+Se actualizó el contenido de Instalar Git.txt y se realizó un segundo commit.
+Tercer cambio:
+Se creó el archivo Cambios_GitHub.txt para documentar el proceso.
