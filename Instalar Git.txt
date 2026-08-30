@@ -5,3 +5,12 @@ Proceso realizado:
 2. Se creó el archivo Instalar Git.txt.
 3. Se realizó el primer commit.
 4. Se verificó que el archivo quedara guardado correctamente en la rama main.
+Despues de instalar la aplicacion directamente de la página web, veras estas pantalla que es la aplicacion ya en el pc.
+Para crear el repositorio, hay que seleccion la opcion de file, posterior a new repository.
+
+Luego saldra esta ventana donde se coloca el nombre de la carpeta y hay que seleccionar el sitio donde quedará guardado
+
+Posterior a eso, lo buscaras en el pc, en la carpeta que se había seleccionado anteriormente
+
+
+
