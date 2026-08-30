@@ -1,2 +1,7 @@
 Este archivo corresponde a la actividad de GitHub.
 Primer documento creado en el repositorio.
+Proceso realizado:
+1. Se creó el repositorio en GitHub.
+2. Se creó el archivo Instalar Git.txt.
+3. Se realizó el primer commit.
+4. Se verificó que el archivo quedara guardado correctamente en la rama main.
