@@ -1,0 +1,29 @@
+OBTENER UN REPOSITORIO DE GIT 
+Para comenzar a trabajar con Git se necesitar contar con un repositorio. Existen 
+principalmente dos formas de obtenerlo: 
+● Crear un repositorio nuevo. Se utiliza cuando se desea comenzar un 
+proyecto desde cero. La segunda permite trabajar con un proyecto que ya 
+se encuentra almacenado en otro lugar, por ejemplo, en GitHub. 
+● Clonar un repositorio existente. 
+CREAR UN REPOSITORIO NUEVO 
+Para crear un repositorio Git dentro de una carpeta existente se utiliza el 
+comando:  
+● git init. Este comando crea una estructura interna que permite a Git 
+comenzar a realizar el seguimiento de los archivos del proyecto. 
+CLONAR UN REPOSITORIO. Cuando el repositorio ya existe en una plataforma 
+como GitHub, se puede obtener una copia local mediante el comando git clone. 
+La estructura básica es:  git clone URL_DEL_REPOSITORIO. El comando descarga 
+el repositorio y crea una carpeta con una copia de los archivos y del historial. 
+EL ESTADO DE LOS ARCHIVOS. Git realiza un seguimiento de los archivos y 
+permite conocer su estado mediante el comando: git status 
+ÁREA DE TRABAJO. El área de trabajo es el lugar donde se encuentran los 
+archivos que estamos modificando directamente. 
+ÁREA DE PREPARACIÓN O STAGING AREA. El área de preparación es una etapa 
+intermedia entre la modificación de los archivos y el commit. 
+REALIZAR UN COMMIT. Después de preparar los archivos, el siguiente paso es 
+registrar los cambios mediante un commit. 
+IMPORTANCIA DE LOS MENSAJES DE COMMIT. Los mensajes de commit son 
+importantes porque permiten identificar qué se hizo en cada etapa del proyecto. 
+IMPORTANCIA DE GIT EN CIENCIA DE DATOS. En Ciencia de Datos, los proyectos 
+pueden incluir código, documentación, notebooks y diferentes archivos de 
+configuración.
