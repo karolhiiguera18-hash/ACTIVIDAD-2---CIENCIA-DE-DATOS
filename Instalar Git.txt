@@ -1,0 +1,2 @@
+Este archivo corresponde a la actividad de GitHub.
+Primer documento creado en el repositorio.
