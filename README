@@ -1,0 +1,46 @@
+ ACTIVIDAD 2 - CIENCIA DE DATOS. Configuración y uso de Git y GitHub
+El objetivo de esta actividad es conocer y aplicar conceptos básicos relacionados con Git y GitHub, utilizando un repositorio individual para crear, modificar y documentar diferentes archivos. Durante el desarrollo de la actividad se trabajó con archivos de texto (.txt), documentos en formato PDF y un archivo README.md para explicar el proceso realizado.
+Objetivos
+Comprender qué es Git y para qué sirve.
+Conocer la función de GitHub.
+Crear y administrar un repositorio.
+Crear y modificar archivos de texto.
+Registrar los cambios mediante commits.
+Documentar el proceso realizado.
+Identificar dificultades y buscar soluciones durante la actividad.
+Repositorio. El proyecto fue desarrollado en un repositorio individual de GitHub denominado:
+**ACTIVIDAD-2---CIENCIA-DE-DATOS**
+En los Archivos del repositorio están los archivos de texto:
+Instalar Git.txt
+Cambios_GitHub.txt
+Capitulo_1.txt
+ Capitulo_2.txt
+
+Se agregaron documentos PDF
+CONTROL DE VERSIONES.pdf
+INSTALAR GIT.pdf
+NOVEDADES EN EL PROCESO.pdf
+OBTENER UN REPOSITORIO DE GIT.pdf
+
+Se creó el archivo de documentación `README.md`
+El proceso realizado:
+Inicialmente se creó el repositorio individual en GitHub.
+Posteriormente se creó el archivo `Instalar Git.txt`, en el cual se documentó información relacionada con la instalación y configuración de Git.
+Después se realizaron modificaciones en este archivo y se registraron mediante nuevos commits.
+También se creó el archivo `Cambios_GitHub.txt` con el objetivo de llevar un registro de las modificaciones realizadas durante la actividad.
+Posteriormente se crearon los archivos `Capitulo_1.txt` y `Capitulo_2.txt`, relacionados con los conceptos de control de versiones y fundamentos de Git.
+Finalmente se agregaron diferentes documentos en formato PDF relacionados con los temas desarrollados durante la actividad.
+
+Se realizó un historial de cambios, los cuales fueron registrados en el repositorio y son:
+Creación del archivo `Instalar Git.txt`.
+Actualización del contenido de `Instalar Git.txt`.
+Creación de `Cambios_GitHub.txt`.
+Creación de `Capitulo_1.txt`.
+Creación de `Capitulo_2.txt`.
+Incorporación de documentos PDF.
+Actualización del registro de cambios.
+Creación de este archivo `README.md`.
+Es importante mencionar que los commits permiten mantener un historial de las modificaciones realizadas en el repositorio.
+
+Dificultades encontradas en el proceso: Durante el desarrollo de la actividad se presentó una dificultad para utilizar Git de manera local mediante Git Bash, debido a restricciones o problemas de funcionamiento en el computador. Esta situación impidió realizar normalmente algunas operaciones de Git desde la terminal local. Como alternativa, se continuó trabajando mediante la interfaz web de GitHub. Desde allí fue posible crear, modificar y registrar los archivos mediante commits, además de cargar los documentos PDF y mantener el historial de cambios del repositorio, y así se pudo continuar con la actividad y documentar el proceso realizado.
+Conclusión: La actividad permitió comprender la importancia del control de versiones y conocer las funciones básicas de GitHub, mediante la creación y modificación de archivos se pudo observar la utilidad de los commits para mantener un historial organizado de los cambios. 
