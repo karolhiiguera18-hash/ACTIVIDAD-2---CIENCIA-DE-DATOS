@@ -1,7 +1,32 @@
 CAMBIOS REALIZADOS EN GITHUB
+
 Primer cambio:
 Se creó el archivo Instalar Git.txt y se realizó el primer commit.
+
 Segundo cambio:
 Se actualizó el contenido de Instalar Git.txt y se realizó un segundo commit.
+
 Tercer cambio:
 Se creó el archivo Cambios_GitHub.txt para documentar el proceso.
+
+Cuarto cambio:
+Se creó el archivo Capitulo_1.txt con información relacionada con el inicio y el control de versiones.
+
+Quinto cambio:
+Se creó el archivo Capitulo_2.txt con información relacionada con los fundamentos de Git.
+
+Sexto cambio:
+Se agregaron al repositorio diferentes documentos en formato PDF relacionados con el proceso de aprendizaje y configuración de Git y GitHub.
+
+Documentos PDF agregados:
+
+CONTROL DE VERSIONES.pdf
+INSTALAR GIT.pdf
+NOVEDADES EN EL PROCESO.pdf
+OBTENER UN REPOSITORIO DE GIT.pdf
+
+Observación:
+Durante el desarrollo de la actividad se presentó una dificultad técnica para utilizar Git de manera local mediante Git Bash. Por esta razón, se continuó el proceso utilizando la interfaz web de GitHub para crear, modificar y registrar los archivos mediante commits.
+
+Conclusión:
+El repositorio permitió documentar progresivamente el desarrollo de la actividad y mantener un registro de los archivos y cambios realizados. Aunque no fue posible utilizar Git Bash en el equipo, se logró trabajar con el repositorio mediante GitHub y conservar el historial de los cambios realizados.
